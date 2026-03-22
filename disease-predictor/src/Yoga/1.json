@@ -1,0 +1,1228 @@
+{
+  "diseases": {
+    "diabetes": [
+      {
+        "name": "Dhanurasana",
+        "english_name": "Bow Pose",
+        "benefits": "Stimulates the pancreas, improves digestion, helps control blood sugar levels",
+        "contraindications": "Avoid during pregnancy, hernia, or lower back pain",
+        "video_url": "https://www.youtube.com/watch?v=4bZv7uRSulA"
+      },
+      {
+        "name": "Ardha Matsyendrasana",
+        "english_name": "Half Spinal Twist",
+        "benefits": "Improves digestion and massages abdominal organs",
+        "contraindications": "Avoid with spinal injuries or during menstruation",
+        "video_url": "https://www.youtube.com/watch?v=8uOQBNb5FNs"
+      },
+      {
+        "name": "Mandukasana",
+        "english_name": "Frog Pose",
+        "benefits": "Directly stimulates the pancreas and helps regulate insulin production",
+        "contraindications": "Avoid with severe knee problems",
+        "video_url": "https://www.youtube.com/watch?v=x6qe_WRwt_I"
+      },
+      {
+        "name": "Paschimottanasana",
+        "english_name": "Seated Forward Bend",
+        "benefits": "Massages abdominal organs and stimulates pancreas function",
+        "contraindications": "Avoid with back injuries",
+        "video_url": "https://www.youtube.com/watch?v=T8sgVNM2mp8"
+      },
+      {
+        "name": "Bhujangasana",
+        "english_name": "Cobra Pose",
+        "benefits": "Stimulates abdominal organs and improves digestion",
+        "contraindications": "Avoid with back injuries or pregnancy",
+        "video_url": "https://www.youtube.com/watch?v=JDcdhTuycOI"
+      },
+      {
+        "name": "Setu Bandhasana",
+        "english_name": "Bridge Pose",
+        "benefits": "Stimulates abdominal organs and reduces stress",
+        "contraindications": "Avoid with neck injuries",
+        "video_url": "https://www.youtube.com/watch?v=YQQ4_9jxhx8"
+      },
+      {
+        "name": "Vrikshasana",
+        "english_name": "Tree Pose",
+        "benefits": "Improves balance and concentration for better diabetes management",
+        "contraindications": "Avoid with severe balance issues",
+        "video_url": "https://www.youtube.com/watch?v=NoZL0LBavd8"
+      },
+      {
+        "name": "Kapalbhati Pranayama",
+        "english_name": "Skull Shining Breath",
+        "benefits": "Improves metabolism and stimulates pancreas",
+        "contraindications": "Avoid with high blood pressure or heart problems",
+        "video_url": "https://www.youtube.com/watch?v=n_lEEg_nCns"
+      },
+      {
+        "name": "Surya Namaskara",
+        "english_name": "Sun Salutation",
+        "benefits": "Improves overall metabolism and helps in weight management",
+        "contraindications": "Avoid with severe back or joint problems",
+        "video_url": "https://www.youtube.com/watch?v=73sjOIf8pFs"
+      },
+      {
+        "name": "Vakrasana",
+        "english_name": "Twisted Pose",
+        "benefits": "Massages internal organs and improves pancreatic function",
+        "contraindications": "Avoid with spinal injuries",
+        "video_url": "https://www.youtube.com/watch?v=6P1dq4rOeQs"
+      }
+    ],
+    "heart_disease": [
+      {
+        "name": "Shavasana",
+        "english_name": "Corpse Pose",
+        "benefits": "Relaxes the body and lowers blood pressure",
+        "contraindications": "None",
+        "video_url": "https://www.youtube.com/watch?v=_dmI1SzqYgk"
+      },
+      {
+        "name": "Anulom Vilom",
+        "english_name": "Alternate Nostril Breathing",
+        "benefits": "Balances the nervous system and reduces stress",
+        "contraindications": "Avoid if feeling dizzy",
+        "video_url": "https://www.youtube.com/watch?v=E9ZzvNgvcc0"
+      },
+      {
+        "name": "Bhramari Pranayama",
+        "english_name": "Bee Breath",
+        "benefits": "Calms the mind and reduces stress and anxiety",
+        "contraindications": "Avoid with severe ear infections",
+        "video_url": "https://www.youtube.com/watch?v=uBjQHKbF_DM"
+      },
+      {
+        "name": "Sukhasana",
+        "english_name": "Easy Pose",
+        "benefits": "Promotes relaxation and reduces heart rate",
+        "contraindications": "Avoid with severe knee problems",
+        "video_url": "https://www.youtube.com/watch?v=1VYlOKUdylM"
+      },
+      {
+        "name": "Tadasana",
+        "english_name": "Mountain Pose",
+        "benefits": "Improves posture and promotes calm breathing",
+        "contraindications": "None",
+        "video_url": "https://www.youtube.com/watch?v=FzFfWBt8Sa4"
+      },
+      {
+        "name": "Balasana",
+        "english_name": "Child's Pose",
+        "benefits": "Calms the nervous system and relieves stress",
+        "contraindications": "Avoid with knee injuries or pregnancy",
+        "video_url": "https://www.youtube.com/watch?v=2Y8S4yyT2Hc"
+      },
+      {
+        "name": "Marjaryasana",
+        "english_name": "Cat Pose",
+        "benefits": "Improves circulation and relieves tension",
+        "contraindications": "Avoid with neck or wrist injuries",
+        "video_url": "https://www.youtube.com/watch?v=kqnua4rTmXY"
+      },
+      {
+        "name": "Bitilasana",
+        "english_name": "Cow Pose",
+        "benefits": "Promotes spinal flexibility and reduces stress",
+        "contraindications": "Avoid with neck injuries",
+        "video_url": "https://www.youtube.com/watch?v=kqnua4rTmXY"
+      },
+      {
+        "name": "Viparita Karani",
+        "english_name": "Legs Up Wall",
+        "benefits": "Improves circulation and calms the nervous system",
+        "contraindications": "Avoid during menstruation or with glaucoma",
+        "video_url": "https://www.youtube.com/watch?v=53eUXEHjE0Q"
+      },
+      {
+        "name": "Ujjayi Pranayama",
+        "english_name": "Ocean Breath",
+        "benefits": "Calms the mind and regulates heart rate",
+        "contraindications": "Avoid with severe respiratory issues",
+        "video_url": "https://www.youtube.com/watch?v=0XuOkYnpNMI"
+      }
+    ],
+    "parkinsons": [
+      {
+        "name": "Vrikshasana",
+        "english_name": "Tree Pose",
+        "benefits": "Improves balance and stability",
+        "contraindications": "Use wall support if balance is severely compromised",
+        "video_url": "https://www.youtube.com/watch?v=NoZL0LBavd8"
+      },
+      {
+        "name": "Tadasana",
+        "english_name": "Mountain Pose",
+        "benefits": "Improves posture and body awareness",
+        "contraindications": "None",
+        "video_url": "https://www.youtube.com/watch?v=FzFfWBt8Sa4"
+      },
+      {
+        "name": "Marjaryasana-Bitilasana",
+        "english_name": "Cat-Cow Pose",
+        "benefits": "Improves spinal mobility and coordination",
+        "contraindications": "Avoid with severe wrist or neck problems",
+        "video_url": "https://www.youtube.com/watch?v=kqnua4rTmXY"
+      },
+      {
+        "name": "Bhujangasana",
+        "english_name": "Cobra Pose",
+        "benefits": "Strengthens back muscles and improves posture",
+        "contraindications": "Avoid with severe back injuries",
+        "video_url": "https://www.youtube.com/watch?v=JDcdhTuycOI"
+      },
+      {
+        "name": "Uttanasana",
+        "english_name": "Standing Forward Bend",
+        "benefits": "Improves flexibility and reduces muscle rigidity",
+        "contraindications": "Use support or modify if balance is compromised",
+        "video_url": "https://www.youtube.com/watch?v=syq88pEA8sY"
+      },
+      {
+        "name": "Setu Bandhasana",
+        "english_name": "Bridge Pose",
+        "benefits": "Strengthens core and leg muscles",
+        "contraindications": "Avoid with neck injuries",
+        "video_url": "https://www.youtube.com/watch?v=YQQ4_9jxhx8"
+      },
+      {
+        "name": "Balasana",
+        "english_name": "Child's Pose",
+        "benefits": "Promotes relaxation and reduces anxiety",
+        "contraindications": "Avoid with knee injuries",
+        "video_url": "https://www.youtube.com/watch?v=2Y8S4yyT2Hc"
+      },
+      {
+        "name": "Pawanmuktasana",
+        "english_name": "Wind Relieving Pose",
+        "benefits": "Improves joint mobility and reduces stiffness",
+        "contraindications": "Avoid with severe hip or knee problems",
+        "video_url": "https://www.youtube.com/watch?v=WXW82AgfwvE"
+      },
+      {
+        "name": "Nadi Shodhana",
+        "english_name": "Alternate Nostril Breathing",
+        "benefits": "Improves focus and reduces tremors",
+        "contraindications": "Avoid if feeling dizzy",
+        "video_url": "https://www.youtube.com/watch?v=E9ZzvNgvcc0"
+      },
+      {
+        "name": "Simhasana",
+        "english_name": "Lion Pose",
+        "benefits": "Improves facial muscle control and speech clarity",
+        "contraindications": "None",
+        "video_url": "https://www.youtube.com/watch?v=ZXj6wNJpUpk"
+      },
+      {
+        "name": "Ardha Matsyendrasana",
+        "english_name": "Half Spinal Twist",
+        "benefits": "Improves spinal mobility and reduces rigidity",
+        "contraindications": "Avoid with severe spinal problems",
+        "video_url": "https://www.youtube.com/watch?v=8uOQBNb5FNs"
+      },
+      {
+        "name": "Supta Padangusthasana",
+        "english_name": "Reclining Hand-to-Big-Toe Pose",
+        "benefits": "Improves leg flexibility and reduces muscle stiffness",
+        "contraindications": "Avoid with severe hip problems",
+        "video_url": "https://www.youtube.com/watch?v=1VLb6hRJjJM"
+      }
+    ],
+    "hypertension": [
+      {
+        "name": "Shavasana",
+        "english_name": "Corpse Pose",
+        "benefits": "Relaxes the body and lowers blood pressure",
+        "contraindications": "None",
+        "video_url": "https://www.youtube.com/watch?v=_dmI1SzqYgk"
+      },
+      {
+        "name": "Anulom Vilom",
+        "english_name": "Alternate Nostril Breathing",
+        "benefits": "Balances the nervous system and reduces stress",
+        "contraindications": "Avoid if feeling dizzy",
+        "video_url": "https://www.youtube.com/watch?v=E9ZzvNgvcc0"
+      },
+      {
+        "name": "Paschimottanasana",
+        "english_name": "Seated Forward Bend",
+        "benefits": "Calms the brain and helps reduce stress and anxiety",
+        "contraindications": "Avoid with back injuries",
+        "video_url": "https://www.youtube.com/watch?v=T8sgVNM2mp8"
+      }
+    ],
+    "asthma": [
+      {
+        "name": "Bhujangasana",
+        "english_name": "Cobra Pose",
+        "benefits": "Expands chest and improves breathing capacity",
+        "contraindications": "Avoid with pregnancy or recent abdominal surgery",
+        "video_url": "https://www.youtube.com/watch?v=RD-Rm3ZG1Ug"
+      },
+      {
+        "name": "Matsyasana",
+        "english_name": "Fish Pose",
+        "benefits": "Opens the chest and throat, useful for respiratory issues",
+        "contraindications": "Avoid with neck injury",
+        "video_url": "https://www.youtube.com/watch?v=OK9K9bwGfTs"
+      },
+      {
+        "name": "Kapalbhati Pranayama",
+        "english_name": "Skull Shining Breath",
+        "benefits": "Cleanses respiratory system and strengthens diaphragm",
+        "contraindications": "Avoid with heart disease or high blood pressure",
+        "video_url": "https://www.youtube.com/watch?v=ixB5zzS8Etc"
+      }
+    ],
+    "obesity": [
+      {
+        "name": "Surya Namaskar",
+        "english_name": "Sun Salutation",
+        "benefits": "Full-body workout, improves metabolism",
+        "contraindications": "Avoid with high blood pressure or joint pain",
+        "video_url": "https://www.youtube.com/watch?v=6IUyY9Dyr5w"
+      },
+      {
+        "name": "Naukasana",
+        "english_name": "Boat Pose",
+        "benefits": "Tones the abdominal muscles and improves digestion",
+        "contraindications": "Avoid with hernia or pregnancy",
+        "video_url": "https://www.youtube.com/watch?v=pxi3t8dnDtw"
+      },
+      {
+        "name": "Trikonasana",
+        "english_name": "Triangle Pose",
+        "benefits": "Reduces fat around the waist and improves digestion",
+        "contraindications": "Avoid with low blood pressure or migraine",
+        "video_url": "https://www.youtube.com/watch?v=S6gB0QHbWFE"
+      }
+    ],
+    "depression": [
+      {
+        "name": "Balasana",
+        "english_name": "Child's Pose",
+        "benefits": "Relieves stress and calms the mind",
+        "contraindications": "Avoid if pregnant or with knee injuries",
+        "video_url": "https://www.youtube.com/watch?v=9xNf6Lcb8K0"
+      },
+      {
+        "name": "Viparita Karani",
+        "english_name": "Legs-Up-The-Wall Pose",
+        "benefits": "Relieves anxiety and boosts circulation",
+        "contraindications": "Avoid during menstruation or with serious eye conditions",
+        "video_url": "https://www.youtube.com/watch?v=7D3yKmYH8Jg"
+      },
+      {
+        "name": "Setubandhasana",
+        "english_name": "Bridge Pose",
+        "benefits": "Calms the brain and reduces anxiety and stress",
+        "contraindications": "Avoid with neck injuries",
+        "video_url": "https://www.youtube.com/watch?v=gqi3MX1wnqQ"
+      }
+    ],
+    "arthritis": [
+      {
+        "name": "Tadasana",
+        "english_name": "Mountain Pose",
+        "benefits": "Improves posture and body alignment",
+        "contraindications": "Generally safe for most people",
+        "video_url": "https://www.youtube.com/watch?v=13CZ91rRXC0"
+      },
+      {
+        "name": "Uttanasana",
+        "english_name": "Standing Forward Bend",
+        "benefits": "Stretches hamstrings and back, relieves tension",
+        "contraindications": "Avoid with back injuries",
+        "video_url": "https://www.youtube.com/watch?v=PPyJZ2JMkgE"
+      },
+      {
+        "name": "Marjaryasana-Bitilasana",
+        "english_name": "Cat-Cow Pose",
+        "benefits": "Increases spine flexibility and reduces joint stiffness",
+        "contraindications": "Avoid with serious neck injuries",
+        "video_url": "https://www.youtube.com/watch?v=kqnua4rHVVA"
+      }
+    ],
+    "insomnia": [
+      {
+        "name": "Uttana Shishosana",
+        "english_name": "Extended Puppy Pose",
+        "benefits": "Releases tension in the upper back and promotes relaxation",
+        "contraindications": "Avoid with knee issues",
+        "video_url": "https://www.youtube.com/watch?v=LtQfrXg5_BM"
+      },
+      {
+        "name": "Viparita Karani",
+        "english_name": "Legs-Up-The-Wall Pose",
+        "benefits": "Calms the nervous system and prepares the body for sleep",
+        "contraindications": "Avoid during menstruation",
+        "video_url": "https://www.youtube.com/watch?v=7D3yKmYH8Jg"
+      },
+      {
+        "name": "Nadi Shodhana",
+        "english_name": "Alternate Nostril Breathing",
+        "benefits": "Balances the mind and promotes deep relaxation",
+        "contraindications": "Generally safe for most people",
+        "video_url": "https://www.youtube.com/watch?v=x79kcA2R1Ms"
+      }
+    ],
+    "digestive_disorders": [
+      {
+        "name": "Pavanamuktasana",
+        "english_name": "Wind-Relieving Pose",
+        "benefits": "Relieves gas and improves digestion",
+        "contraindications": "Avoid with recent abdominal surgery",
+        "video_url": "https://www.youtube.com/watch?v=qRuNxHqwazs"
+      },
+      {
+        "name": "Vajrasana",
+        "english_name": "Thunderbolt Pose",
+        "benefits": "Aids digestion when practiced after meals",
+        "contraindications": "Avoid with knee injuries",
+        "video_url": "https://www.youtube.com/watch?v=l7mIR3h2Fq0"
+      },
+      {
+        "name": "Ardha Matsyendrasana",
+        "english_name": "Half Spinal Twist",
+        "benefits": "Massages abdominal organs and improves digestion",
+        "contraindications": "Avoid with severe back problems",
+        "video_url": "https://www.youtube.com/watch?v=8uOQBNb5FNs"
+      }
+    ],
+    "back_pain": [
+      {
+        "name": "Adho Mukha Svanasana",
+        "english_name": "Downward-Facing Dog",
+        "benefits": "Stretches the entire back and strengthens core muscles",
+        "contraindications": "Avoid with carpal tunnel syndrome or late pregnancy",
+        "video_url": "https://www.youtube.com/watch?v=j97SSGsnCAQ"
+      },
+      {
+        "name": "Balasana",
+        "english_name": "Child's Pose",
+        "benefits": "Gently stretches the lower back and promotes relaxation",
+        "contraindications": "Avoid with knee injuries",
+        "video_url": "https://www.youtube.com/watch?v=9xNf6Lcb8K0"
+      },
+      {
+        "name": "Setu Bandhasana",
+        "english_name": "Bridge Pose",
+        "benefits": "Strengthens back muscles and improves spinal flexibility",
+        "contraindications": "Avoid with neck injuries",
+        "video_url": "https://www.youtube.com/watch?v=gqi3MX1wnqQ"
+      }
+    ],
+    "anxiety": [
+      {
+        "name": "Sukhasana",
+        "english_name": "Easy Pose with Deep Breathing",
+        "benefits": "Calms the mind and promotes mental relaxation",
+        "contraindications": "Generally safe for most people",
+        "video_url": "https://www.youtube.com/watch?v=d-tr0hk-lzQ"
+      },
+      {
+        "name": "Uttanasana",
+        "english_name": "Standing Forward Bend",
+        "benefits": "Calms the brain and relieves stress and anxiety",
+        "contraindications": "Avoid with back injuries",
+        "video_url": "https://www.youtube.com/watch?v=PPyJZ2JMkgE"
+      },
+      {
+        "name": "Bhramari Pranayama",
+        "english_name": "Bee Breath",
+        "benefits": "Immediately calms the mind and reduces anxiety",
+        "contraindications": "Avoid with severe ear infections",
+        "video_url": "https://www.youtube.com/watch?v=cZzP5q9zJBs"
+      }
+    ]
+  },
+  "yoga_poses": {
+    "Dhanurasana": {
+      "english_name": "Bow Pose",
+      "benefits": "Stimulates the pancreas, improves digestion, helps control blood sugar levels",
+      "contraindications": "Avoid during pregnancy, hernia, or lower back pain",
+      "video_url": "https://www.youtube.com/watch?v=4bZv7uRSulA",
+      "helps_with": ["diabetes"]
+    },
+    "Ardha_Matsyendrasana": {
+      "english_name": "Half Spinal Twist",
+      "benefits": "Improves digestion and massages abdominal organs",
+      "contraindications": "Avoid with spinal injuries or during menstruation",
+      "video_url": "https://www.youtube.com/watch?v=8uOQBNb5FNs",
+      "helps_with": ["diabetes", "digestive_disorders"]
+    },
+    "Mandukasana": {
+      "english_name": "Frog Pose",
+      "benefits": "Directly stimulates the pancreas and helps regulate insulin production",
+      "contraindications": "Avoid with severe knee problems",
+      "video_url": "https://www.youtube.com/watch?v=x6qe_WRwt_I",
+      "helps_with": ["diabetes"]
+    },
+    "Shavasana": {
+      "english_name": "Corpse Pose",
+      "benefits": "Relaxes the body and lowers blood pressure",
+      "contraindications": "None",
+      "video_url": "https://www.youtube.com/watch?v=_dmI1SzqYgk",
+      "helps_with": ["hypertension"]
+    },
+    "Anulom_Vilom": {
+      "english_name": "Alternate Nostril Breathing",
+      "benefits": "Balances the nervous system and reduces stress",
+      "contraindications": "Avoid if feeling dizzy",
+      "video_url": "https://www.youtube.com/watch?v=E9ZzvNgvcc0",
+      "helps_with": ["hypertension"]
+    },
+    "Paschimottanasana": {
+      "english_name": "Seated Forward Bend",
+      "benefits": "Calms the brain and helps reduce stress and anxiety",
+      "contraindications": "Avoid with back injuries",
+      "video_url": "https://www.youtube.com/watch?v=T8sgVNM2mp8",
+      "helps_with": ["hypertension"]
+    },
+    "Bhujangasana": {
+      "english_name": "Cobra Pose",
+      "benefits": "Expands chest and improves breathing capacity",
+      "contraindications": "Avoid with pregnancy or recent abdominal surgery",
+      "video_url": "https://www.youtube.com/watch?v=RD-Rm3ZG1Ug",
+      "helps_with": ["asthma"]
+    },
+    "Matsyasana": {
+      "english_name": "Fish Pose",
+      "benefits": "Opens the chest and throat, useful for respiratory issues",
+      "contraindications": "Avoid with neck injury",
+      "video_url": "https://www.youtube.com/watch?v=OK9K9bwGfTs",
+      "helps_with": ["asthma"]
+    },
+    "Kapalbhati_Pranayama": {
+      "english_name": "Skull Shining Breath",
+      "benefits": "Cleanses respiratory system and strengthens diaphragm",
+      "contraindications": "Avoid with heart disease or high blood pressure",
+      "video_url": "https://www.youtube.com/watch?v=ixB5zzS8Etc",
+      "helps_with": ["asthma"]
+    },
+    "Surya_Namaskar": {
+      "english_name": "Sun Salutation",
+      "benefits": "Full-body workout, improves metabolism",
+      "contraindications": "Avoid with high blood pressure or joint pain",
+      "video_url": "https://www.youtube.com/watch?v=6IUyY9Dyr5w",
+      "helps_with": ["obesity"]
+    },
+    "Naukasana": {
+      "english_name": "Boat Pose",
+      "benefits": "Tones the abdominal muscles and improves digestion",
+      "contraindications": "Avoid with hernia or pregnancy",
+      "video_url": "https://www.youtube.com/watch?v=pxi3t8dnDtw",
+      "helps_with": ["obesity"]
+    },
+    "Trikonasana": {
+      "english_name": "Triangle Pose",
+      "benefits": "Reduces fat around the waist and improves digestion",
+      "contraindications": "Avoid with low blood pressure or migraine",
+      "video_url": "https://www.youtube.com/watch?v=S6gB0QHbWFE",
+      "helps_with": ["obesity"]
+    },
+    "Balasana": {
+      "english_name": "Child's Pose",
+      "benefits": "Relieves stress and calms the mind",
+      "contraindications": "Avoid if pregnant or with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=9xNf6Lcb8K0",
+      "helps_with": ["depression", "back_pain"]
+    },
+    "Viparita_Karani": {
+      "english_name": "Legs-Up-The-Wall Pose",
+      "benefits": "Relieves anxiety and boosts circulation",
+      "contraindications": "Avoid during menstruation or with serious eye conditions",
+      "video_url": "https://www.youtube.com/watch?v=7D3yKmYH8Jg",
+      "helps_with": ["depression", "insomnia"]
+    },
+    "Setubandhasana": {
+      "english_name": "Bridge Pose",
+      "benefits": "Calms the brain and reduces anxiety and stress",
+      "contraindications": "Avoid with neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=gqi3MX1wnqQ",
+      "helps_with": ["depression"]
+    },
+    "Tadasana": {
+      "english_name": "Mountain Pose",
+      "benefits": "Improves posture and body alignment",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=13CZ91rRXC0",
+      "helps_with": ["arthritis"]
+    },
+    "Uttanasana": {
+      "english_name": "Standing Forward Bend",
+      "benefits": "Stretches hamstrings and back, relieves tension",
+      "contraindications": "Avoid with back injuries",
+      "video_url": "https://www.youtube.com/watch?v=PPyJZ2JMkgE",
+      "helps_with": ["arthritis", "anxiety"]
+    },
+    "Marjaryasana_Bitilasana": {
+      "english_name": "Cat-Cow Pose",
+      "benefits": "Increases spine flexibility and reduces joint stiffness",
+      "contraindications": "Avoid with serious neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=kqnua4rHVVA",
+      "helps_with": ["arthritis"]
+    },
+    "Uttana_Shishosana": {
+      "english_name": "Extended Puppy Pose",
+      "benefits": "Releases tension in the upper back and promotes relaxation",
+      "contraindications": "Avoid with knee issues",
+      "video_url": "https://www.youtube.com/watch?v=LtQfrXg5_BM",
+      "helps_with": ["insomnia"]
+    },
+    "Nadi_Shodhana": {
+      "english_name": "Alternate Nostril Breathing",
+      "benefits": "Balances the mind and promotes deep relaxation",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=x79kcA2R1Ms",
+      "helps_with": ["insomnia"]
+    },
+    "Pavanamuktasana": {
+      "english_name": "Wind-Relieving Pose",
+      "benefits": "Relieves gas and improves digestion",
+      "contraindications": "Avoid with recent abdominal surgery",
+      "video_url": "https://www.youtube.com/watch?v=qRuNxHqwazs",
+      "helps_with": ["digestive_disorders"]
+    },
+    "Vajrasana": {
+      "english_name": "Thunderbolt Pose",
+      "benefits": "Aids digestion when practiced after meals",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=l7mIR3h2Fq0",
+      "helps_with": ["digestive_disorders"]
+    },
+    "Adho_Mukha_Svanasana": {
+      "english_name": "Downward-Facing Dog",
+      "benefits": "Stretches the entire back and strengthens core muscles",
+      "contraindications": "Avoid with carpal tunnel syndrome or late pregnancy",
+      "video_url": "https://www.youtube.com/watch?v=j97SSGsnCAQ",
+      "helps_with": ["back_pain"]
+    },
+    "Setu_Bandhasana": {
+      "english_name": "Bridge Pose",
+      "benefits": "Strengthens back muscles and improves spinal flexibility",
+      "contraindications": "Avoid with neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=gqi3MX1wnqQ",
+      "helps_with": ["back_pain"]
+    },
+    "Sukhasana": {
+      "english_name": "Easy Pose with Deep Breathing",
+      "benefits": "Calms the mind and promotes mental relaxation",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=d-tr0hk-lzQ",
+      "helps_with": ["anxiety"]
+    },
+    "Bhramari_Pranayama": {
+      "english_name": "Bee Breath",
+      "benefits": "Immediately calms the mind and reduces anxiety",
+      "contraindications": "Avoid with severe ear infections",
+      "video_url": "https://www.youtube.com/watch?v=cZzP5q9zJBs",
+      "helps_with": ["anxiety"]
+    },
+    "Vrikshasana": {
+      "english_name": "Tree Pose",
+      "benefits": "Improves balance and strengthens legs and core",
+      "contraindications": "Avoid with ankle or knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=oVJJOQkK0Zg",
+      "helps_with": ["balance", "focus"]
+    },
+    "Warrior_I": {
+      "english_name": "Warrior I Pose",
+      "benefits": "Strengthens legs, opens hips and chest, improves focus",
+      "contraindications": "Avoid with high blood pressure or heart problems",
+      "video_url": "https://www.youtube.com/watch?v=K8apjOPE1wY",
+      "helps_with": ["strength", "confidence"]
+    },
+    "Warrior_II": {
+      "english_name": "Warrior II Pose",
+      "benefits": "Builds stamina and strengthens legs, opens hips",
+      "contraindications": "Avoid with recent hip or knee surgery",
+      "video_url": "https://www.youtube.com/watch?v=KWBfQjuwp4E",
+      "helps_with": ["strength", "endurance"]
+    },
+    "Warrior_III": {
+      "english_name": "Warrior III Pose",
+      "benefits": "Improves balance, strengthens core and legs",
+      "contraindications": "Avoid with high blood pressure or balance issues",
+      "video_url": "https://www.youtube.com/watch?v=TozXhfZOl_c",
+      "helps_with": ["balance", "core_strength"]
+    },
+    "Utkata_Konasana": {
+      "english_name": "Goddess Pose",
+      "benefits": "Strengthens legs and glutes, opens hips",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=Z7QsB7-Lsks",
+      "helps_with": ["strength", "hip_flexibility"]
+    },
+    "Parsvottanasana": {
+      "english_name": "Pyramid Pose",
+      "benefits": "Stretches hamstrings and calves, improves balance",
+      "contraindications": "Avoid with back injuries or high blood pressure",
+      "video_url": "https://www.youtube.com/watch?v=QmhQkNJXNIY",
+      "helps_with": ["flexibility", "balance"]
+    },
+    "Parivrtta_Trikonasana": {
+      "english_name": "Revolved Triangle Pose",
+      "benefits": "Improves spinal mobility and aids digestion",
+      "contraindications": "Avoid with back injuries or vertigo",
+      "video_url": "https://www.youtube.com/watch?v=8UNs2Xqh4ZU",
+      "helps_with": ["spinal_health", "digestive_disorders"]
+    },
+    "Utthita_Parsvakonasana": {
+      "english_name": "Extended Side Angle Pose",
+      "benefits": "Strengthens legs, stretches sides of torso",
+      "contraindications": "Avoid with neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=mLMKpJK2n_I",
+      "helps_with": ["strength", "flexibility"]
+    },
+    "Garudasana": {
+      "english_name": "Eagle Pose",
+      "benefits": "Improves balance and concentration, stretches shoulders",
+      "contraindications": "Avoid with knee or ankle injuries",
+      "video_url": "https://www.youtube.com/watch?v=lGsQbZBNYoU",
+      "helps_with": ["balance", "focus"]
+    },
+    "Natarajasana": {
+      "english_name": "Dancer's Pose",
+      "benefits": "Improves balance, strengthens legs, opens chest",
+      "contraindications": "Avoid with ankle injuries or vertigo",
+      "video_url": "https://www.youtube.com/watch?v=GfJU9vgQo9E",
+      "helps_with": ["balance", "flexibility"]
+    },
+    "Urdhva_Mukha_Svanasana": {
+      "english_name": "Upward-Facing Dog",
+      "benefits": "Strengthens arms and wrists, opens chest",
+      "contraindications": "Avoid with back injuries or carpal tunnel",
+      "video_url": "https://www.youtube.com/watch?v=qx9U2EDLUzk",
+      "helps_with": ["upper_body_strength", "chest_opening"]
+    },
+    "Chaturanga_Dandasana": {
+      "english_name": "Four-Limbed Staff Pose",
+      "benefits": "Strengthens arms, shoulders, and core",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=_0Mm8Y_8sIY",
+      "helps_with": ["upper_body_strength", "core_strength"]
+    },
+    "Bakasana": {
+      "english_name": "Crow Pose",
+      "benefits": "Strengthens arms and core, improves balance",
+      "contraindications": "Avoid with wrist injuries or pregnancy",
+      "video_url": "https://www.youtube.com/watch?v=Fgm0YFXB4m0",
+      "helps_with": ["arm_strength", "balance"]
+    },
+    "Parsva_Bakasana": {
+      "english_name": "Side Crow Pose",
+      "benefits": "Strengthens arms and core, improves balance",
+      "contraindications": "Avoid with wrist or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=3AYqnHlKNaE",
+      "helps_with": ["arm_strength", "core_strength"]
+    },
+    "Marichyasana_I": {
+      "english_name": "Marichi's Pose I",
+      "benefits": "Aids digestion and calms the nervous system",
+      "contraindications": "Avoid with back injuries",
+      "video_url": "https://www.youtube.com/watch?v=ItQ8F3wYzBg",
+      "helps_with": ["digestive_disorders", "flexibility"]
+    },
+    "Marichyasana_III": {
+      "english_name": "Marichi's Pose III",
+      "benefits": "Improves spinal flexibility and aids digestion",
+      "contraindications": "Avoid with back or neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=5qjE6Gj8DxI",
+      "helps_with": ["spinal_health", "digestive_disorders"]
+    },
+    "Bharadvajasana": {
+      "english_name": "Bharadvaja's Twist",
+      "benefits": "Improves spinal flexibility and relieves lower back pain",
+      "contraindications": "Avoid with serious back injuries",
+      "video_url": "https://www.youtube.com/watch?v=e2U5IZWEgoc",
+      "helps_with": ["back_pain", "spinal_health"]
+    },
+    "Janu_Sirsasana": {
+      "english_name": "Head-to-Knee Forward Bend",
+      "benefits": "Calms the brain and helps relieve mild depression",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=bUr2p7dNbZs",
+      "helps_with": ["flexibility", "anxiety"]
+    },
+    "Baddha_Konasana": {
+      "english_name": "Bound Angle Pose",
+      "benefits": "Opens hips and groins, calms the mind",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=3t2G7yR6iIA",
+      "helps_with": ["hip_flexibility", "relaxation"]
+    },
+    "Upavista_Konasana": {
+      "english_name": "Wide-Legged Forward Bend",
+      "benefits": "Stretches inner thighs and spine",
+      "contraindications": "Avoid with lower back injuries",
+      "video_url": "https://www.youtube.com/watch?v=LdBfgzjyKvs",
+      "helps_with": ["flexibility", "hip_opening"]
+    },
+    "Kurmasana": {
+      "english_name": "Turtle Pose",
+      "benefits": "Calms the nervous system and improves flexibility",
+      "contraindications": "Avoid with back or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=rVfF3EDjQi8",
+      "helps_with": ["flexibility", "stress_relief"]
+    },
+    "Gomukhasana": {
+      "english_name": "Cow Face Pose",
+      "benefits": "Opens hips and shoulders, improves posture",
+      "contraindications": "Avoid with serious knee or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=4bQ1uQZhC6A",
+      "helps_with": ["hip_flexibility", "shoulder_mobility"]
+    },
+    "Eka_Pada_Rajakapotasana": {
+      "english_name": "One-Legged King Pigeon Pose",
+      "benefits": "Opens hips and chest, improves spinal flexibility",
+      "contraindications": "Avoid with knee or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=3xPUaGGWlcs",
+      "helps_with": ["hip_flexibility", "chest_opening"]
+    },
+    "Hanumanasana": {
+      "english_name": "Monkey Pose (Splits)",
+      "benefits": "Deeply stretches hamstrings and hip flexors",
+      "contraindications": "Avoid with hamstring or hip injuries",
+      "video_url": "https://www.youtube.com/watch?v=S1qrCZzBnQE",
+      "helps_with": ["flexibility", "hip_opening"]
+    },
+    "Supta_Baddha_Konasana": {
+      "english_name": "Reclined Bound Angle Pose",
+      "benefits": "Opens hips and chest, promotes relaxation",
+      "contraindications": "Avoid with lower back injuries",
+      "video_url": "https://www.youtube.com/watch?v=9s-GkOGqPrw",
+      "helps_with": ["hip_flexibility", "relaxation"]
+    },
+    "Supta_Padangusthasana": {
+      "english_name": "Reclined Hand-to-Big-Toe Pose",
+      "benefits": "Stretches hamstrings and calves",
+      "contraindications": "Avoid with lower back injuries",
+      "video_url": "https://www.youtube.com/watch?v=AEVzlQjBB8s",
+      "helps_with": ["flexibility", "back_pain"]
+    },
+    "Ananda_Balasana": {
+      "english_name": "Happy Baby Pose",
+      "benefits": "Gently stretches inner groins and back",
+      "contraindications": "Avoid with neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=xfWmS_9WV0I",
+      "helps_with": ["hip_flexibility", "relaxation"]
+    },
+    "Halasana": {
+      "english_name": "Plow Pose",
+      "benefits": "Calms the nervous system and improves digestion",
+      "contraindications": "Avoid with neck injuries or high blood pressure",
+      "video_url": "https://www.youtube.com/watch?v=vAiNIAeFdKE",
+      "helps_with": ["stress_relief", "digestive_disorders"]
+    },
+    "Sarvangasana": {
+      "english_name": "Shoulder Stand",
+      "benefits": "Improves circulation and calms the mind",
+      "contraindications": "Avoid with neck injuries, high blood pressure, or menstruation",
+      "video_url": "https://www.youtube.com/watch?v=BUCgJ-bLCH0",
+      "helps_with": ["circulation", "stress_relief"]
+    },
+    "Karnapidasana": {
+      "english_name": "Ear Pressure Pose",
+      "benefits": "Calms the nervous system and improves hearing",
+      "contraindications": "Avoid with neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=d8S_V8bCGdw",
+      "helps_with": ["stress_relief", "hearing"]
+    },
+    "Pincha_Mayurasana": {
+      "english_name": "Forearm Stand",
+      "benefits": "Strengthens shoulders and improves balance",
+      "contraindications": "Avoid with neck or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=uDbWwlxQTh8",
+      "helps_with": ["upper_body_strength", "balance"]
+    },
+    "Adho_Mukha_Vrksasana": {
+      "english_name": "Handstand",
+      "benefits": "Strengthens arms and shoulders, improves balance",
+      "contraindications": "Avoid with wrist, shoulder, or neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=8YXzeVNOITE",
+      "helps_with": ["upper_body_strength", "balance"]
+    },
+    "Sirsasana": {
+      "english_name": "Headstand",
+      "benefits": "Improves circulation and strengthens core",
+      "contraindications": "Avoid with neck injuries, high blood pressure, or glaucoma",
+      "video_url": "https://www.youtube.com/watch?v=xnJ-qw4_LZ8",
+      "helps_with": ["circulation", "core_strength"]
+    },
+    "Ustrasana": {
+      "english_name": "Camel Pose",
+      "benefits": "Opens chest and hip flexors, strengthens back",
+      "contraindications": "Avoid with neck or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=AAyj3f0NFQE",
+      "helps_with": ["chest_opening", "back_strength"]
+    },
+    "Urdhva_Dhanurasana": {
+      "english_name": "Wheel Pose",
+      "benefits": "Strengthens back and shoulders, opens chest",
+      "contraindications": "Avoid with back, neck, or wrist injuries",
+      "video_url": "https://www.youtube.com/watch?v=uxDCjRgHoT4",
+      "helps_with": ["back_strength", "chest_opening"]
+    },
+    "Eka_Pada_Urdhva_Dhanurasana": {
+      "english_name": "One-Legged Wheel Pose",
+      "benefits": "Advanced backbend that strengthens entire body",
+      "contraindications": "Avoid with back, neck, or wrist injuries",
+      "video_url": "https://www.youtube.com/watch?v=kKjt9xCzGww",
+      "helps_with": ["advanced_strength", "flexibility"]
+    },
+    "Kapotasana": {
+      "english_name": "King Pigeon Pose",
+      "benefits": "Deep backbend that opens chest and shoulders",
+      "contraindications": "Avoid with back or neck injuries",
+      "video_url": "https://www.youtube.com/watch?v=tShOIKatYzM",
+      "helps_with": ["advanced_flexibility", "chest_opening"]
+    },
+    "Scorpion_Pose": {
+      "english_name": "Scorpion Pose",
+      "benefits": "Advanced pose combining inversion and backbend",
+      "contraindications": "Avoid with neck, back, or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=Dd3pQn-H3lM",
+      "helps_with": ["advanced_strength", "balance"]
+    },
+    "Padmasana": {
+      "english_name": "Lotus Pose",
+      "benefits": "Calms the mind and improves posture",
+      "contraindications": "Avoid with knee or ankle injuries",
+      "video_url": "https://www.youtube.com/watch?v=MSjvPj2Dx5o",
+      "helps_with": ["meditation", "posture"]
+    },
+    "Ardha_Padmasana": {
+      "english_name": "Half Lotus Pose",
+      "benefits": "Preparation for lotus, improves hip flexibility",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=dCMWdj4kKaI",
+      "helps_with": ["hip_flexibility", "meditation"]
+    },
+    "Siddhasana": {
+      "english_name": "Accomplished Pose",
+      "benefits": "Improves concentration and calms the mind",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=hKlJzZK-MYQ",
+      "helps_with": ["meditation", "focus"]
+    },
+    "Virasana": {
+      "english_name": "Hero Pose",
+      "benefits": "Improves digestion and stretches thighs",
+      "contraindications": "Avoid with knee or ankle injuries",
+      "video_url": "https://www.youtube.com/watch?v=rp3CWPdT-P4",
+      "helps_with": ["digestive_disorders", "leg_flexibility"]
+    },
+    "Supta_Virasana": {
+      "english_name": "Reclined Hero Pose",
+      "benefits": "Stretches thighs and improves digestion",
+      "contraindications": "Avoid with knee, back, or ankle injuries",
+      "video_url": "https://www.youtube.com/watch?v=_3-_AH7Aw7o",
+      "helps_with": ["leg_flexibility", "digestive_disorders"]
+    },
+    "Agnistambhasana": {
+      "english_name": "Fire Log Pose",
+      "benefits": "Opens hips and stretches outer thighs",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=zNNTlTXvXiY",
+      "helps_with": ["hip_flexibility", "leg_stretching"]
+    },
+    "Eka_Pada_Galavasana": {
+      "english_name": "Flying Pigeon Pose",
+      "benefits": "Strengthens arms and core, improves balance",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=rAfZoZgIl-w",
+      "helps_with": ["arm_strength", "balance"]
+    },
+    "Astavakrasana": {
+      "english_name": "Eight-Angle Pose",
+      "benefits": "Strengthens arms and core, improves balance",
+      "contraindications": "Avoid with wrist injuries",
+      "video_url": "https://www.youtube.com/watch?v=hwY5QZEYnOA",
+      "helps_with": ["arm_strength", "core_strength"]
+    },
+    "Koundinyasana_I": {
+      "english_name": "Koundinya's Pose I",
+      "benefits": "Strengthens arms and core, improves balance",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=kkVzIXdJ0jI",
+      "helps_with": ["arm_strength", "balance"]
+    },
+    "Koundinyasana_II": {
+      "english_name": "Koundinya's Pose II",
+      "benefits": "Strengthens arms and core, improves balance and coordination",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=X8Fs4p0dH7E",
+      "helps_with": ["arm_strength", "balance"]
+    },
+    "Tittibhasana": {
+      "english_name": "Firefly Pose",
+      "benefits": "Strengthens arms and core, improves flexibility",
+      "contraindications": "Avoid with wrist injuries or lower back problems",
+      "video_url": "https://www.youtube.com/watch?v=q5WYrZhFjHI",
+      "helps_with": ["arm_strength", "hamstring_flexibility"]
+    },
+    "Eka_Pada_Koundinyasana": {
+      "english_name": "One-Legged Koundinya's Pose",
+      "benefits": "Advanced arm balance that strengthens entire upper body",
+      "contraindications": "Avoid with wrist, shoulder, or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=VFgE6hZJXAk",
+      "helps_with": ["advanced_strength", "balance"]
+    },
+    "Mayurasana": {
+      "english_name": "Peacock Pose",
+      "benefits": "Strengthens arms and core, improves digestion",
+      "contraindications": "Avoid with wrist injuries or pregnancy",
+      "video_url": "https://www.youtube.com/watch?v=7CjTdPUBczM",
+      "helps_with": ["arm_strength", "digestive_disorders"]
+    },
+    "Pincha_Mayurasana_Variations": {
+      "english_name": "Forearm Stand Variations",
+      "benefits": "Builds shoulder strength and improves balance",
+      "contraindications": "Avoid with neck or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=GkwJ3Dt1Y5Q",
+      "helps_with": ["shoulder_strength", "balance"]
+    },
+    "Dwi_Pada_Viparita_Dandasana": {
+      "english_name": "Two-Legged Inverted Staff Pose",
+      "benefits": "Advanced backbend that strengthens back and shoulders",
+      "contraindications": "Avoid with back, neck, or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=4m_T0gP_9lQ",
+      "helps_with": ["advanced_backbends", "shoulder_strength"]
+    },
+    "Eka_Pada_Viparita_Dandasana": {
+      "english_name": "One-Legged Inverted Staff Pose",
+      "benefits": "Advanced backbend variation for experienced practitioners",
+      "contraindications": "Avoid with back, neck, or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=M8pYhZ5GNBM",
+      "helps_with": ["advanced_backbends", "balance"]
+    },
+    "Vrschikasana": {
+      "english_name": "Scorpion Pose in Headstand",
+      "benefits": "Combines inversion and deep backbend",
+      "contraindications": "Avoid with neck, back, or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=Dd3pQn-H3lM",
+      "helps_with": ["advanced_inversions", "spinal_flexibility"]
+    },
+    "Ganda_Bherundasana": {
+      "english_name": "Formidable Face Pose",
+      "benefits": "Extremely advanced pose for experienced practitioners",
+      "contraindications": "Avoid with any injuries, only for advanced practitioners",
+      "video_url": "https://www.youtube.com/watch?v=rGCBOeR8t4M",
+      "helps_with": ["advanced_strength", "extreme_flexibility"]
+    },
+    "Yoganidrasana": {
+      "english_name": "Yogic Sleep Pose",
+      "benefits": "Deep hip opener and forward fold",
+      "contraindications": "Avoid with hip, knee, or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=KkSKz0rnKCc",
+      "helps_with": ["advanced_hip_opening", "flexibility"]
+    },
+    "Eka_Pada_Sirsasana": {
+      "english_name": "Foot Behind Head Pose",
+      "benefits": "Extreme hip opener and spinal twist",
+      "contraindications": "Avoid with hip, knee, or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=vXw2gK6D5qE",
+      "helps_with": ["advanced_hip_opening", "spinal_mobility"]
+    },
+    "Bharadvajasana_II": {
+      "english_name": "Bharadvaja's Twist II",
+      "benefits": "Advanced spinal twist with lotus variation",
+      "contraindications": "Avoid with knee, hip, or back injuries",
+      "video_url": "https://www.youtube.com/watch?v=YmqWnbJyuFE",
+      "helps_with": ["advanced_twisting", "hip_flexibility"]
+    },
+    "Marichyasana_IV": {
+      "english_name": "Marichi's Pose IV",
+      "benefits": "Advanced binding twist that aids digestion",
+      "contraindications": "Avoid with back, knee, or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=AqOyLF4k0CU",
+      "helps_with": ["advanced_twisting", "digestive_disorders"]
+    },
+    "Parivrtta_Parsvakonasana": {
+      "english_name": "Revolved Side Angle Pose",
+      "benefits": "Improves spinal mobility and strengthens legs",
+      "contraindications": "Avoid with back injuries or vertigo",
+      "video_url": "https://www.youtube.com/watch?v=qcWX7Bkz_Zs",
+      "helps_with": ["spinal_mobility", "leg_strength"]
+    },
+    "Parivrtta_Ardha_Chandrasana": {
+      "english_name": "Revolved Half Moon Pose",
+      "benefits": "Advanced balance pose with spinal twist",
+      "contraindications": "Avoid with back injuries or balance issues",
+      "video_url": "https://www.youtube.com/watch?v=t3xJQ_KJqV8",
+      "helps_with": ["advanced_balance", "spinal_mobility"]
+    },
+    "Ardha_Chandrasana": {
+      "english_name": "Half Moon Pose",
+      "benefits": "Improves balance and strengthens legs",
+      "contraindications": "Avoid with neck injuries or vertigo",
+      "video_url": "https://www.youtube.com/watch?v=5oX6ATZwTpY",
+      "helps_with": ["balance", "leg_strength"]
+    },
+    "Utthita_Hasta_Padangusthasana": {
+      "english_name": "Extended Hand-to-Big-Toe Pose",
+      "benefits": "Improves balance and stretches hamstrings",
+      "contraindications": "Avoid with ankle injuries or balance issues",
+      "video_url": "https://www.youtube.com/watch?v=fMnzRzgRcLk",
+      "helps_with": ["balance", "hamstring_flexibility"]
+    },
+    "Parivrtta_Hasta_Padangusthasana": {
+      "english_name": "Revolved Hand-to-Big-Toe Pose",
+      "benefits": "Challenging balance pose with spinal twist",
+      "contraindications": "Avoid with back injuries or balance issues",
+      "video_url": "https://www.youtube.com/watch?v=H7YABjCdgSg",
+      "helps_with": ["advanced_balance", "spinal_mobility"]
+    },
+    "Vasisthasana": {
+      "english_name": "Side Plank Pose",
+      "benefits": "Strengthens arms, core, and legs",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=pTxny5tQGq4",
+      "helps_with": ["core_strength", "arm_strength"]
+    },
+    "Eka_Pada_Vasisthasana": {
+      "english_name": "One-Legged Side Plank",
+      "benefits": "Advanced side plank variation for core strength",
+      "contraindications": "Avoid with wrist, shoulder, or hip injuries",
+      "video_url": "https://www.youtube.com/watch?v=sJfKNcm7Kt0",
+      "helps_with": ["advanced_core_strength", "balance"]
+    },
+    "Bharmanasana": {
+      "english_name": "Tabletop Pose",
+      "benefits": "Neutral spine position, foundation for many poses",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=KsqYmRBx_0Q",
+      "helps_with": ["spinal_alignment", "core_stability"]
+    },
+    "Phalakasana": {
+      "english_name": "Plank Pose",
+      "benefits": "Strengthens arms, core, and legs",
+      "contraindications": "Avoid with wrist injuries",
+      "video_url": "https://www.youtube.com/watch?v=2cKZi2rUScw",
+      "helps_with": ["core_strength", "upper_body_strength"]
+    },
+    "Kumbhakasana": {
+      "english_name": "Plank Pose Variation",
+      "benefits": "Builds full-body strength and stability",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=2cKZi2rUScw",
+      "helps_with": ["full_body_strength", "stability"]
+    },
+    "Ardha_Pincha_Mayurasana": {
+      "english_name": "Dolphin Pose",
+      "benefits": "Strengthens shoulders and prepares for forearm stand",
+      "contraindications": "Avoid with neck or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=s_YmSk5OmGU",
+      "helps_with": ["shoulder_strength", "inversion_preparation"]
+    },
+    "Prasarita_Padottanasana": {
+      "english_name": "Wide-Legged Forward Fold",
+      "benefits": "Stretches hamstrings and calms the mind",
+      "contraindications": "Avoid with lower back injuries",
+      "video_url": "https://www.youtube.com/watch?v=hqyF5O3R-Zg",
+      "helps_with": ["hamstring_flexibility", "stress_relief"]
+    },
+    "Malasana": {
+      "english_name": "Garland Pose (Squat)",
+      "benefits": "Opens hips and strengthens legs",
+      "contraindications": "Avoid with knee injuries",
+      "video_url": "https://www.youtube.com/watch?v=KeVgRgB0KeU",
+      "helps_with": ["hip_opening", "leg_strength"]
+    },
+    "Purvottanasana": {
+      "english_name": "Upward Plank Pose",
+      "benefits": "Strengthens back and opens chest",
+      "contraindications": "Avoid with wrist or shoulder injuries",
+      "video_url": "https://www.youtube.com/watch?v=bH6KjmZ7HQY",
+      "helps_with": ["back_strength", "chest_opening"]
+    },
+    "Ubhaya_Padangusthasana": {
+      "english_name": "Both Big Toe Pose",
+      "benefits": "Improves balance and core strength",
+      "contraindications": "Avoid with back injuries",
+      "video_url": "https://www.youtube.com/watch?v=Bp9xkOi9YB8",
+      "helps_with": ["balance", "core_strength"]
+    },
+    "Navasana": {
+      "english_name": "Boat Pose",
+      "benefits": "Strengthens core and improves balance",
+      "contraindications": "Avoid with back injuries or pregnancy",
+      "video_url": "https://www.youtube.com/watch?v=pxi3t8dnDtw",
+      "helps_with": ["core_strength", "balance"]
+    },
+    "Ardha_Navasana": {
+      "english_name": "Half Boat Pose",
+      "benefits": "Builds core strength, easier variation of boat pose",
+      "contraindications": "Avoid with back injuries",
+      "video_url": "https://www.youtube.com/watch?v=5qXzYgTdLAw",
+      "helps_with": ["core_strength", "abdominal_toning"]
+    },
+    "Paripurna_Navasana": {
+      "english_name": "Full Boat Pose",
+      "benefits": "Advanced core strengthener and balance pose",
+      "contraindications": "Avoid with back injuries or pregnancy",
+      "video_url": "https://www.youtube.com/watch?v=kAA5oZr9fnQ",
+      "helps_with": ["advanced_core_strength", "balance"]
+    },
+    "Ujjayi_Pranayama": {
+      "english_name": "Victorious Breath",
+      "benefits": "Calms the mind and improves concentration",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=UgYxLPMmhJ4",
+      "helps_with": ["stress_relief", "concentration"]
+    },
+    "Bhastrika_Pranayama": {
+      "english_name": "Bellows Breath",
+      "benefits": "Energizes the body and improves lung capacity",
+      "contraindications": "Avoid with heart disease or high blood pressure",
+      "video_url": "https://www.youtube.com/watch?v=4WGdPhQhZOE",
+      "helps_with": ["energy", "respiratory_health"]
+    },
+    "Sama_Vritti_Pranayama": {
+      "english_name": "Equal Breathing",
+      "benefits": "Balances the nervous system and reduces stress",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=5XHd6y1_Yuk",
+      "helps_with": ["stress_relief", "nervous_system_balance"]
+    },
+    "Chandra_Bhedana": {
+      "english_name": "Left Nostril Breathing",
+      "benefits": "Cooling breath that calms the mind",
+      "contraindications": "Avoid if feeling cold or depressed",
+      "video_url": "https://www.youtube.com/watch?v=X3NX4_oVKE8",
+      "helps_with": ["cooling", "relaxation"]
+    },
+    "Surya_Bhedana": {
+      "english_name": "Right Nostril Breathing",
+      "benefits": "Warming breath that energizes the body",
+      "contraindications": "Avoid with high blood pressure or heart disease",
+      "video_url": "https://www.youtube.com/watch?v=oKdW3bOkQsc",
+      "helps_with": ["energy", "warming"]
+    },
+    "Sheetali_Pranayama": {
+      "english_name": "Cooling Breath",
+      "benefits": "Cools the body and calms the mind",
+      "contraindications": "Avoid in cold weather or with respiratory issues",
+      "video_url": "https://www.youtube.com/watch?v=BaKhvCrz1AI",
+      "helps_with": ["cooling", "heat_reduction"]
+    },
+    "Sheetkari_Pranayama": {
+      "english_name": "Hissing Breath",
+      "benefits": "Cooling breath technique for hot weather",
+      "contraindications": "Avoid in cold weather",
+      "video_url": "https://www.youtube.com/watch?v=iOQ8ks3w2zo",
+      "helps_with": ["cooling", "temperature_regulation"]
+    },
+    "Pratiloma_Pranayama": {
+      "english_name": "Against the Grain Breathing",
+      "benefits": "Balances nervous system and improves focus",
+      "contraindications": "Generally safe for most people",
+      "video_url": "https://www.youtube.com/watch?v=gj9ygG9vIzw",
+      "helps_with": ["focus", "nervous_system_balance"]
+    }
+  }
+
+}
